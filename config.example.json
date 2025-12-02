@@ -1,0 +1,9 @@
+{
+  "leaderboardUrl": "https://adventofcode.com/2025/leaderboard/private/view/000000.json",
+  "branding": {
+    "title": "My Advent of Code",
+    "subtitle": "Friends Leaderboard",
+    "headerImageUrl": "/assets/header.jpg",
+    "footerText": "Happy Coding & Happy Holidays! 🎄"
+  }
+}
