@@ -22,8 +22,8 @@ const DEFAULT_CONFIG: AppConfig = {
   branding: {
     title: "Advent of Code",
     subtitle: "Leaderboard",
-    headerImageUrl: "/diddy.png",
-    footerText: "<> DIDDY'S MALVADOS Y ASOCIADOS </> © 2025",
+    headerImageUrl: "/default.png",
+    footerText: "<> Default </> © 2025",
   },
 }
 
