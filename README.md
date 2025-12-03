@@ -75,6 +75,7 @@ http://localhost:3000
 ```
 
 ## Screenshots
+![Screenshot](public/screenshot.png)
 
 ## Contributing
 
